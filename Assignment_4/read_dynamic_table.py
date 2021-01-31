@@ -38,10 +38,6 @@ for elements in table.find_elements(*DATA_ROWS):
 print(rows)
 print(theads)
 
-
-select = Select(browser.find_element(SELECT_PERIOD))
-select.select_by_value('week')
-time.sleep(60)
 browser.quit()
 
 
