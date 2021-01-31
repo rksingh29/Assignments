@@ -1,0 +1,4 @@
+{"step1" : ["login_to_url","https://phptravels.com/demo/","HOME_PAGE"],
+  "step2" : ["click_on_link","HOME_PAGE"],
+  "step3" : ["user@phptravels.com","demouser"]
+}
